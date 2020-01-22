@@ -1,0 +1,117 @@
+body{
+    background-image: url("./images/download.jpeg");
+    background-repeat: no-repeat;
+    background-size:cover;
+
+}
+.topnav a{
+    text-align: center;
+padding: 43px 16px;
+
+
+}
+.topnav a:hover{
+    background-color: rgb(221, 221, 221);
+    color: black;
+    height:100%;
+}
+table{
+    position: relative;
+    left:40%;
+    background-color: darkmagenta;
+    box-sizing: border-box;
+    border:5px solid darkorange;
+}
+.contacts{
+    background-color: darkolivegreen;
+    height:300px ;
+    background-image: url("https://bit.ly/38jd5fs");
+    background-size:contain;
+    background-repeat: no-repeat;
+}
+#aboutus{
+    
+    font-size: x-large;
+    color: blue;
+    background-color: chartreuse;
+    width:100%;
+
+}
+.services{
+    background-color: azure;
+    color: chocolate;
+    height: auto;
+    background-image: url("https://bit.ly/2RbmQXl");
+    background-repeat: no-repeat;
+    background-size: contain;
+    text-align: center;
+    height:150px ;
+
+    
+}
+.aboutus{
+    background-color: cornflowerblue;
+    color: rgb(221, 15, 221);
+    height:200px;
+    background-image: url("https://bit.ly/2RxyURE");
+    background-repeat:no-repeat ;
+    background-size: contain;
+    text-align: center;
+    
+}
+.products{
+    background-color: burlywood;
+    height: 350px;
+    background-image: url("https://bit.ly/3ap6zpn");
+    background-repeat: no-repeat;
+    background-size: contain;
+
+    
+}
+#location{
+    text-align: center;
+    font-size: x-large;
+    height: 300px;
+    background-color: darkgreys;
+}
+.location{
+    background-color: cornflowerblue;
+    background-image: url("https://bit.ly/2RCImDq");
+    background-size: contain;
+    background-repeat: no-repeat;   
+}
+h1{
+    text-align: center;
+    font: size 90%;
+    color: blue; 
+}
+table,tr,td{
+    border: 1px solid blue;
+}
+table,th{
+    border:1px solid blue;
+}
+#contacts{
+    text-align: center;
+    font-size: x-large;
+}
+#products{
+    text-align: center;
+    font-size: x-large;
+}
+#services{
+    font-size: x-large;
+    background-color: azure;
+
+    
+}
+footer{
+    text-align: end;
+    background-color: blueviolet;
+    position: absolute;
+    right:15px;
+    font-style: italic;
+    font-weight: 700;
+    border-color: coral;
+    box-sizing: content-box;
+}
