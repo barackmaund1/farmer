@@ -35,6 +35,8 @@ table{
     color: blue;
     background-color: chartreuse;
     width:100%;
+    font-family: 'Josefin Slab', serif;
+
 
 }
 .services{
@@ -102,6 +104,8 @@ table,th{
 #services{
     font-size: x-large;
     background-color: azure;
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+
 
     
 }
